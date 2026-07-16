@@ -1,7 +1,5 @@
 
 
-<img width="747" height="558" alt="IMG_20260716_211007" src="https://github.com/user-attachments/assets/a67af4b3-d21e-4c9c-9eb6-e339cc6b4885" />
-
 
 
 
@@ -96,7 +94,7 @@
 - Защита от перегрузки через тепловое реле.  
 - Остановка через кнопку "Стоп".
 
-![Схема классика](images/classic_scheme.png)
+<img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/c1606431-ba88-4056-a73a-58fd69e5ebc0" />
 
 ---
 
@@ -113,7 +111,7 @@
 - По программе включает/выключает контактор.  
 - Контролирует состояние двигателя и выводит сигналы на лампы.
 
-![Схема с ПЛК](images/plc_scheme.png)
+<img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/4f7b3603-2bb6-4a34-9f46-91312d5d46a4" />
 
 ---
 
