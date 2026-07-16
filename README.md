@@ -38,7 +38,6 @@
 
 
 
-![image_alt](https://github.com/hassanjizzine0-afk/my-work/blob/main/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201/IMG_20260716_204759.webp?raw=true)
 ---
 
 ### 2. Щит управления насосом с Soft Starter (устройство плавного пуска)
