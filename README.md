@@ -3,9 +3,6 @@
 
 
 
-
-
-
 **Инженер-электроник | Цех штамповки и сварки | HAVAL**
 
 ---
@@ -151,3 +148,17 @@
 - Пауза между переключениями — 50-100 мс.
 
 <img width="968" height="616" alt="image" src="https://github.com/user-attachments/assets/6ad96c7c-74f8-43a6-8594-1e23e0462e41" />
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/986567b5-ca77-48d1-b539-a643c687a13a
+
