@@ -153,7 +153,6 @@
 
 
 
-https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 
 # 🤖 5-DOF Parallel Robot Control System
@@ -177,6 +176,13 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 | **PID-регуляторы** | Настройка систем стабилизации и приводов |
 | **Обратная связь (энкодеры)** | Работа с сервоприводами и позиционированием |
 | **Интеграция систем** | Связь между ПЛК, частотниками и исполнительными механизмами |
+
+
+
+
+
+
+https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 ---
 
