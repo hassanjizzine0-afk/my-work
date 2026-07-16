@@ -158,7 +158,6 @@ https://github.com/user-attachments/assets/81a3c3f3-e4e3-4b23-a534-e3cdc967f56e
 
 # 🤖 5-DOF Parallel Robot Control System
 
-## 📌 Проект в контексте моей работы на заводе HAVAL
 
 Этот проект — не просто учебная работа.  
 Он показывает **как я подхожу к задачам автоматизации и управления**:
