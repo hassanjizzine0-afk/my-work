@@ -149,4 +149,4 @@
 - KM3 и KM2 не могут быть включены одновременно (защита от КЗ).
 - Пауза между переключениями — 50-100 мс.
 
-<img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/5c6ceac9-09e0-423c-94b2-fd5707eb94e1" />
+<img width="968" height="616" alt="image" src="https://github.com/user-attachments/assets/6ad96c7c-74f8-43a6-8594-1e23e0462e41" />
