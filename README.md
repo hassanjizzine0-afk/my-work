@@ -1,4 +1,3 @@
-<img width="747" height="558" alt="IMG_20260716_204759" src="https://github.com/user-attachments/assets/4df0dfed-2513-4466-8c57-d084fe22b9e4" />
 
 **Инженер-электроник | Цех штамповки и сварки | HAVAL**
 
